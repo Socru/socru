@@ -1,16 +1,35 @@
-### Hi there 👋
+# Mi Perfil de Programador
 
-<!--
-**Socru/socru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋 Soy Ricardo Socru, un apasionado de la programación y la ciberseguridad. Aquí están algunas de mis habilidades y tecnologías con las que disfruto trabajar:
 
-Here are some ideas to get you started:
+## Tecnologías y Lenguajes de Programación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lenguajes de Programación
+
+- **JavaScript** (ES6+)
+- **TypeScript** 🦄
+- **Python** 🐍
+- **R** 📊
+- **C** 🔧
+- **C++** 🚀
+- **Java** ☕
+- **Pascal** 🎓
+- **SQL** 📈
+- **HTML** 🌐
+- **CSS** 🎨
+- **Ensamblador** 🖥️
+
+### Ciberseguridad
+
+- **Pentesting** 🔍
+- **Conocimiento de Ataques** 🛡️
+
+## Conéctame
+
+- **LinkedIn**: [SocruRicardo]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/ricardo-solano-cruz-socru/))
+- **Correo Electrónico**: [socructr@gmail.com](socr010910@gs.utm.mx)
+
+## Mis Intereses
+No todo es trabajo, vamos al gym saliendo del trabajo
+
+ ¡Gracias por visitar mi perfil! 🚀
